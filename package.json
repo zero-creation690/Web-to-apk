@@ -1,0 +1,8 @@
+{
+  "name": "web2apk-api",
+  "version": "1.0.0",
+  "description": "Web to APK API hosted on Vercel",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT"
+}
